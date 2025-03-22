@@ -94,5 +94,5 @@ comment_system/
 
 ## Limitations
 
-* Deleting a parent comment deletes the whole thread, unlike Reddit.
-* As per requirements, posts can't be liked by an admin.
+* Deleting a parent comment deletes the whole thread, unlike Reddit
+* As per requirements, posts can't be liked by an admin
